@@ -1,2 +1,2 @@
 # alpha-demo
-This is demo for GitHub
+This is demo for GitHub.
